@@ -24,7 +24,6 @@ This project builds an **Artificial Neural Network (ANN)** to classify whether a
 ├── ANN_model.ipynb         # Full notebook with training workflow
 ├── requirements.txt        # Dependencies
 ├── model.pkl               # Saved model (pickled)
-├── preprocessor.pkl        # Saved preprocessing pipeline
 └── README.md               # This file
 ```
 
